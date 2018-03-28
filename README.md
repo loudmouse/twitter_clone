@@ -1,5 +1,5 @@
 # The App
-The live site is hosted on Heroku. Because I'm using the free tier plan it may take up to 30 seconds for the app to load. you may find it here: https://tranquil-taiga-56801.herokuapp.com/
+The live site is hosted on Heroku. Because I'm using the free tier plan it may take up to 30 seconds for the app to load. You may find it here: https://tranquil-taiga-56801.herokuapp.com/
 
 ## The Goal
 
