@@ -1,41 +1,15 @@
-# Ruby on Rails Tutorial sample application
+# The App
+The live site is hosted on Heroku. Because I'm using the free tier plan it may take up to 30 seconds for the app to load. you may find it here: https://tranquil-taiga-56801.herokuapp.com/
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+## The Goal
 
-## License
+It's a deep dive into building a MVP of a Twitter clone. Instead of using scaffolding I built all models, views, and controllers on my own. Instead of using Devise I rolled my own authentication system for the purposes of learning.
 
-All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
+## Feedback?
 
-## Getting started
+Do you have feedback? Or maybe you're interested in pairing on a project together? Find me on Twitter at [Loudmouse312](https://twitter.com/loudmouse312).
 
-To get started with the app, clone the repo and then install the needed gems:
+##Credit
 
-```
-$ bundle install --without production
-```
-
-Next, migrate the database:
-
-```
-$ rails db:migrate
-```
-
-Finally, run the test suite to verify that everything is working correctly:
-
-```
-$ rails test
-```
-
-If the test suite passes, you'll be ready to run the app in a local server:
-
-```
-$ rails server
-```
-
-For more information, see the
-[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+This app was built following Michael Hartl's
+[Ruby on Rails Tutorial](http://www.railstutorial.org/). Thanks for a great resource, Michael!
