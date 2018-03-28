@@ -9,7 +9,7 @@ It's a deep dive into building a MVP of a Twitter clone. Instead of using scaffo
 
 Do you have feedback? Or maybe you're interested in pairing on a project together? Find me on Twitter at [Loudmouse312](https://twitter.com/loudmouse312).
 
-##Credit
+## Credit
 
 This app was built following Michael Hartl's
 [Ruby on Rails Tutorial](http://www.railstutorial.org/). Thanks for a great resource, Michael!
