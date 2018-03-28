@@ -3,7 +3,7 @@ The live site is hosted on Heroku. Because I'm using the free tier plan it may t
 
 ## The Goal
 
-It's a deep dive into building a MVP of a Twitter clone. Instead of using scaffolding I built all models, views, and controllers on my own. Instead of using Devise I rolled my own authentication system for the purposes of learning.
+It's a deep dive into building a MVP of a Twitter application. Instead of using scaffolding I built all models, views, and controllers on my own. Instead of using Devise I rolled my own authentication system for the purposes of learning. I've also followed TDD principles to write tests to lead development. 
 
 ## Feedback?
 
